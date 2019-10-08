@@ -1,8 +1,8 @@
-# End of the day
+# Server status notifications
 
 ## Prompt
 
-Write a script that emails you and Sky when it's 10 minutes before your shift ends. You can use whatever scripting languages you prefer. This script should be able to run (or be executed) indefinitely so as to notify us every work day (but not the weekend!)
+If a business-critical service goes down, it is not enough to just log its status. It will often be important to also notify a system admin. With that in mind, write a script that pings a server hourly and if it is down, have it send an email to Sky.
 
 ## Submitting
 
