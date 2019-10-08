@@ -2,7 +2,7 @@
 
 ## Prompt
 
-If a business-critical service goes down, it is not enough to just log its status. It will often be important to also notify a system admin. With that in mind, write a script that pings a server hourly and if it is down, have it send an email to Sky.
+If a business-critical service goes down, it is not enough to just log its status. It will often be important to also notify a system admin. With that in mind, write a script that pings a server (35.192.3.38) hourly and if it is down, have it send an email to Sky.
 
 ## Submitting
 
